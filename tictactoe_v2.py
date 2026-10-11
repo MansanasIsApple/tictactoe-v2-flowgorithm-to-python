@@ -1,5 +1,5 @@
-# Name: [Diesta,Macy T.]
-# Date: [October 11,2026]
+# Name: Diesta,Macy T.
+# Date: October 11,2026
 # Course: PROGCON IT261
 # File: tictactoe_v2.py
 # Description: Human vs. computer Tic-Tac-Toe (3x3), converted from my
